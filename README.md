@@ -1,2 +1,2 @@
 # snippets
-Handy cod snippets for little jobs.
+Handy code snippets for little jobs.
